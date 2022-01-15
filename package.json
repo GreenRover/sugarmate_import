@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@fast-csv/format": "^4.3.5",
+    "@fast-csv/parse": "^4.3.6",
+    "axios": "^0.24.0",
+    "fast-csv": "^4.3.6",
+    "moment": "^2.29.1"
+  }
+}
